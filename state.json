@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:56:24.445Z",
+  "generated_at": "2026-05-24T16:04:06.547Z",
   "draft_id": "1346001677764825088",
   "picks_made": 8,
   "total_picks": 30,
@@ -34,7 +34,7 @@
       "pos": "RB",
       "nfl_team": "ARI",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "mikey"
     },
     {
       "pick_no": 2,
@@ -43,7 +43,7 @@
       "pos": "QB",
       "nfl_team": "LV",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "Th3BoT"
     },
     {
       "pick_no": 3,
@@ -52,7 +52,7 @@
       "pos": "WR",
       "nfl_team": "NO",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "mikey"
     },
     {
       "pick_no": 4,
@@ -61,7 +61,7 @@
       "pos": "WR",
       "nfl_team": "TEN",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "Cbass"
     },
     {
       "pick_no": 5,
@@ -79,7 +79,7 @@
       "pos": "WR",
       "nfl_team": "PHI",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "OhSnap"
     },
     {
       "pick_no": 7,
@@ -97,7 +97,7 @@
       "pos": "QB",
       "nfl_team": "LAR",
       "is_mine": false,
-      "picked_by": null
+      "picked_by": "mikey"
     }
   ]
 }

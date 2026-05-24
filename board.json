@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:56:24.445Z",
+  "generated_at": "2026-05-24T16:04:06.547Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -30,7 +30,7 @@
       "drafted": true,
       "pick_slot": "1.01",
       "pick_no": 1,
-      "picked_by": null,
+      "picked_by": "mikey",
       "is_mine": false
     },
     {
@@ -47,11 +47,11 @@
       "ktc_rk": 42,
       "tier": 1,
       "confidence": "high",
-      "note": "ETR #2 SF (premium setup w/ Kubiak + Bowers + Jeanty) + FF #9 (Var 3, 1QB-biased) + KTC #42. Top QB of class — SF bumps him up the blend.",
+      "note": "ETR #2 SF (premium setup w/ Kubiak + Bowers + Jeanty) + FF #9 SF (Var 3) + KTC #42. Real analyst disagreement on SF QB value — ETR loves him, Footballers cooler. Blend lands him at #4.",
       "drafted": true,
       "pick_slot": "1.02",
       "pick_no": 2,
-      "picked_by": null,
+      "picked_by": "Th3BoT",
       "is_mine": false
     },
     {
@@ -72,7 +72,7 @@
       "drafted": true,
       "pick_slot": "1.03",
       "pick_no": 3,
-      "picked_by": null,
+      "picked_by": "mikey",
       "is_mine": false
     },
     {
@@ -93,7 +93,7 @@
       "drafted": true,
       "pick_slot": "1.04",
       "pick_no": 4,
-      "picked_by": null,
+      "picked_by": "Cbass",
       "is_mine": false
     },
     {
@@ -156,7 +156,7 @@
       "drafted": true,
       "pick_slot": "1.06",
       "pick_no": 6,
-      "picked_by": null,
+      "picked_by": "OhSnap",
       "is_mine": false
     },
     {
@@ -303,7 +303,7 @@
       "drafted": true,
       "pick_slot": "1.08",
       "pick_no": 8,
-      "picked_by": null,
+      "picked_by": "mikey",
       "is_mine": false
     },
     {
