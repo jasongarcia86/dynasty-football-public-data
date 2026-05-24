@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T16:17:28.761Z",
+  "generated_at": "2026-05-24T16:26:19.552Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 8,
+  "picks_made": 11,
   "total_picks": 30,
-  "pct_complete": 27,
+  "pct_complete": 37,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -98,6 +98,33 @@
       "nfl_team": "LAR",
       "is_mine": false,
       "picked_by": "mikey"
+    },
+    {
+      "pick_no": 9,
+      "slot": "1.09",
+      "player": "Omar Cooper",
+      "pos": "WR",
+      "nfl_team": "NYJ",
+      "is_mine": false,
+      "picked_by": "BenHogan"
+    },
+    {
+      "pick_no": 10,
+      "slot": "1.10",
+      "player": "Jonah Coleman",
+      "pos": "RB",
+      "nfl_team": "DEN",
+      "is_mine": false,
+      "picked_by": "Cbass"
+    },
+    {
+      "pick_no": 11,
+      "slot": "2.01",
+      "player": "Kenyon Sadiq",
+      "pos": "TE",
+      "nfl_team": "NYJ",
+      "is_mine": false,
+      "picked_by": "Jakris"
     }
   ]
 }

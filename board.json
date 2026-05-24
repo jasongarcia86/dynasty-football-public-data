@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:17:28.761Z",
+  "generated_at": "2026-05-24T16:26:19.552Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -174,10 +174,10 @@
       "tier": 4,
       "confidence": "medium",
       "note": "TE1 of class. 4.39 forty (best TE in 14 yrs), 43.5\" vert. R1 capital. Behind Mason Taylor at NYJ. Youngest meaningful target in class. ETR/FF ranks are TEP-inflated — DEFLATE for non-TEP. 1.07 fallback if no trade-down.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.01",
+      "pick_no": 11,
+      "picked_by": "Jakris",
       "is_mine": false
     },
     {
@@ -195,10 +195,10 @@
       "tier": 3,
       "confidence": "high",
       "note": "R1 capital. 13 TDs, 24% TS at Indiana. 83.3% slot. Behind Garrett Wilson only — better Y1 path than ETR ADP implies. Geno upgrade real. STRONG 1.07 fallback if trade-back fails.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "1.09",
+      "pick_no": 9,
+      "picked_by": "BenHogan",
       "is_mine": false
     },
     {
@@ -384,10 +384,10 @@
       "tier": 5,
       "confidence": "medium",
       "note": "ETR: 'long-term Dobbins replacement.' 5'8\"/220 power compact, 4.50. Behind Dobbins (injury history) + Harvey (FF sell flag — 49th rush success). Y2 path real. FAILS FF Day-2 R1 RB rule, so 2.07+ only.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "1.10",
+      "pick_no": 10,
+      "picked_by": "Cbass",
       "is_mine": false
     },
     {
