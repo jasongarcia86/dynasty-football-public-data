@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-05-24T06:16:54.476Z",
+  "draft_id": "1346001677764825088",
+  "picks_made": 8,
+  "total_picks": 30,
+  "pct_complete": 27,
+  "is_complete": false,
+  "my_user_id_present": true,
+  "my_picks": [
+    {
+      "pick_no": 5,
+      "slot": "1.05",
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "nfl_team": "SEA",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 7,
+      "slot": "1.07",
+      "player": "KC Concepcion",
+      "pos": "WR",
+      "nfl_team": "CLE",
+      "is_mine": true,
+      "picked_by": "ME"
+    }
+  ],
+  "all_picks": [
+    {
+      "pick_no": 1,
+      "slot": "1.01",
+      "player": "Jeremiyah Love",
+      "pos": "RB",
+      "nfl_team": "ARI",
+      "is_mine": false,
+      "picked_by": null
+    },
+    {
+      "pick_no": 2,
+      "slot": "1.02",
+      "player": "Fernando Mendoza",
+      "pos": "QB",
+      "nfl_team": "LV",
+      "is_mine": false,
+      "picked_by": null
+    },
+    {
+      "pick_no": 3,
+      "slot": "1.03",
+      "player": "Jordyn Tyson",
+      "pos": "WR",
+      "nfl_team": "NO",
+      "is_mine": false,
+      "picked_by": null
+    },
+    {
+      "pick_no": 4,
+      "slot": "1.04",
+      "player": "Carnell Tate",
+      "pos": "WR",
+      "nfl_team": "TEN",
+      "is_mine": false,
+      "picked_by": null
+    },
+    {
+      "pick_no": 5,
+      "slot": "1.05",
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "nfl_team": "SEA",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 6,
+      "slot": "1.06",
+      "player": "Makai Lemon",
+      "pos": "WR",
+      "nfl_team": "PHI",
+      "is_mine": false,
+      "picked_by": null
+    },
+    {
+      "pick_no": 7,
+      "slot": "1.07",
+      "player": "KC Concepcion",
+      "pos": "WR",
+      "nfl_team": "CLE",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 8,
+      "slot": "1.08",
+      "player": "Ty Simpson",
+      "pos": "QB",
+      "nfl_team": "LAR",
+      "is_mine": false,
+      "picked_by": null
+    }
+  ]
+}

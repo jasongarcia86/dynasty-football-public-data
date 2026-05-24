@@ -1,0 +1,200 @@
+{
+  "generated_at": "2026-05-24T06:16:54.476Z",
+  "team_name": "Emeka Boomshakalaka",
+  "current_roster": {
+    "QB": [
+      "Dak Prescott",
+      "Malik Willis",
+      "J.J. McCarthy",
+      "Tua Tagovailoa",
+      "Anthony Richardson",
+      "Riley Leonard"
+    ],
+    "RB": [
+      "Omarion Hampton",
+      "Bhayshul Tuten",
+      "Javonte Williams",
+      "Tyrone Tracy Jr.",
+      "Rachaad White",
+      "Najee Harris",
+      "Woody Marks",
+      "Rico Dowdle"
+    ],
+    "WR": [
+      "Nico Collins",
+      "Zay Flowers",
+      "Rome Odunze",
+      "Xavier Legette",
+      "Rashod Bateman",
+      "Chris Olave",
+      "Emeka Egbuka",
+      "Isaac TeSlaa",
+      "Malik Washington"
+    ],
+    "TE": [
+      "T.J. Hockenson",
+      "Tyler Warren"
+    ]
+  },
+  "drafted_rookies": [
+    {
+      "pick_slot": "1.05",
+      "pick_no": 5,
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "nfl_team": "SEA"
+    },
+    {
+      "pick_slot": "1.07",
+      "pick_no": 7,
+      "name": "KC Concepcion",
+      "pos": "WR",
+      "nfl_team": "CLE"
+    }
+  ],
+  "post_draft_roster": {
+    "QB": [
+      "Dak Prescott",
+      "Malik Willis",
+      "J.J. McCarthy",
+      "Tua Tagovailoa",
+      "Anthony Richardson",
+      "Riley Leonard"
+    ],
+    "RB": [
+      "Omarion Hampton",
+      "Bhayshul Tuten",
+      "Javonte Williams",
+      "Tyrone Tracy Jr.",
+      "Rachaad White",
+      "Najee Harris",
+      "Woody Marks",
+      "Rico Dowdle",
+      "Jadarian Price"
+    ],
+    "WR": [
+      "Nico Collins",
+      "Zay Flowers",
+      "Rome Odunze",
+      "Xavier Legette",
+      "Rashod Bateman",
+      "Chris Olave",
+      "Emeka Egbuka",
+      "Isaac TeSlaa",
+      "Malik Washington",
+      "KC Concepcion"
+    ],
+    "TE": [
+      "T.J. Hockenson",
+      "Tyler Warren"
+    ]
+  },
+  "cut_candidates": [
+    {
+      "name": "Najee Harris",
+      "pos": "RB",
+      "age": 27,
+      "team": null,
+      "injury_status": "Questionable",
+      "score": 37,
+      "reason": "age 27 · Q · tagged surplus"
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "pos": "QB",
+      "age": 28,
+      "team": "ATL",
+      "injury_status": null,
+      "score": 28,
+      "reason": "age 28 · tagged surplus"
+    },
+    {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27,
+      "team": "WAS",
+      "injury_status": null,
+      "score": 27,
+      "reason": "age 27 · tagged surplus"
+    },
+    {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "age": 26,
+      "team": "MIA",
+      "injury_status": null,
+      "score": 26,
+      "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "age": 26,
+      "team": "DAL",
+      "injury_status": null,
+      "score": 26,
+      "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "age": 26,
+      "team": "BAL",
+      "injury_status": null,
+      "score": 26,
+      "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
+      "injury_status": null,
+      "score": 25,
+      "reason": "age 25 · tagged surplus"
+    },
+    {
+      "name": "Malik Washington",
+      "pos": "WR",
+      "age": 25,
+      "team": "MIA",
+      "injury_status": null,
+      "score": 25,
+      "reason": "age 25 · tagged surplus"
+    },
+    {
+      "name": "Anthony Richardson",
+      "pos": "QB",
+      "age": 24,
+      "team": "IND",
+      "injury_status": null,
+      "score": 24,
+      "reason": "age 24 · tagged surplus"
+    },
+    {
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "age": 24,
+      "team": "DET",
+      "injury_status": null,
+      "score": 24,
+      "reason": "age 24 · tagged surplus"
+    },
+    {
+      "name": "Riley Leonard",
+      "pos": "QB",
+      "age": 23,
+      "team": "IND",
+      "injury_status": null,
+      "score": 23,
+      "reason": "age 23 · tagged surplus"
+    }
+  ],
+  "counts": {
+    "QB": 6,
+    "RB": 9,
+    "WR": 10,
+    "TE": 2,
+    "total": 27
+  }
+}
