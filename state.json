@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T00:14:19.146Z",
+  "generated_at": "2026-05-25T04:53:41.306Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 11,
+  "picks_made": 14,
   "total_picks": 30,
-  "pct_complete": 37,
+  "pct_complete": 47,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -22,6 +22,15 @@
       "player": "KC Concepcion",
       "pos": "WR",
       "nfl_team": "CLE",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 13,
+      "slot": "2.03",
+      "player": "Eli Stowers",
+      "pos": "TE",
+      "nfl_team": "PHI",
       "is_mine": true,
       "picked_by": "ME"
     }
@@ -125,6 +134,33 @@
       "nfl_team": "NYJ",
       "is_mine": false,
       "picked_by": "Jakris"
+    },
+    {
+      "pick_no": 12,
+      "slot": "2.02",
+      "player": "Elijah Sarratt",
+      "pos": "WR",
+      "nfl_team": "BAL",
+      "is_mine": false,
+      "picked_by": "Th3BoT"
+    },
+    {
+      "pick_no": 13,
+      "slot": "2.03",
+      "player": "Eli Stowers",
+      "pos": "TE",
+      "nfl_team": "PHI",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 14,
+      "slot": "2.04",
+      "player": "Nicholas Singleton",
+      "pos": "RB",
+      "nfl_team": "TEN",
+      "is_mine": false,
+      "picked_by": "mikey"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T00:14:19.146Z",
+  "generated_at": "2026-05-25T04:53:41.306Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -50,6 +50,13 @@
       "name": "KC Concepcion",
       "pos": "WR",
       "nfl_team": "CLE"
+    },
+    {
+      "pick_slot": "2.03",
+      "pick_no": 13,
+      "name": "Eli Stowers",
+      "pos": "TE",
+      "nfl_team": "PHI"
     }
   ],
   "post_draft_roster": {
@@ -86,7 +93,8 @@
     ],
     "TE": [
       "T.J. Hockenson",
-      "Tyler Warren"
+      "Tyler Warren",
+      "Eli Stowers"
     ]
   },
   "cut_candidates": [
@@ -109,6 +117,15 @@
       "reason": "age 28 · tagged surplus"
     },
     {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "age": 27,
+      "team": "MIA",
+      "injury_status": null,
+      "score": 27,
+      "reason": "age 27 · tagged surplus"
+    },
+    {
       "name": "Rachaad White",
       "pos": "RB",
       "age": 27,
@@ -116,15 +133,6 @@
       "injury_status": null,
       "score": 27,
       "reason": "age 27 · tagged surplus"
-    },
-    {
-      "name": "Malik Willis",
-      "pos": "QB",
-      "age": 26,
-      "team": "MIA",
-      "injury_status": null,
-      "score": 26,
-      "reason": "age 26 · tagged surplus"
     },
     {
       "name": "Javonte Williams",
@@ -194,7 +202,7 @@
     "QB": 6,
     "RB": 9,
     "WR": 10,
-    "TE": 2,
-    "total": 27
+    "TE": 3,
+    "total": 28
   }
 }

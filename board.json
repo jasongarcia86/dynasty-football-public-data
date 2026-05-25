@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T00:14:19.146Z",
+  "generated_at": "2026-05-25T04:53:41.306Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -216,11 +216,11 @@
       "tier": 4,
       "confidence": "medium",
       "note": "Mackey winner. Combine records: 11'3\" broad, 45.5\" vert. Behind 31-yr-old Goedert + Calc on 1-yr deals = 2027 starter path. Converted QB. DEFLATE rank for non-TEP — but Y1 path is real. 1.07 dart.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
-      "is_mine": false
+      "drafted": true,
+      "pick_slot": "2.03",
+      "pick_no": 13,
+      "picked_by": "ME",
+      "is_mine": true
     },
     {
       "rank": 14,
@@ -489,10 +489,10 @@
       "tier": 7,
       "confidence": "low",
       "note": "44 career TDs, 2.56 YPRR. Lamar attachment is the appeal. BLOCKED — BAL also drafted Ja'Kobi Lane R3 in front of him + has Flowers/Bateman. Age 23 caps. Late-3rd dart.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.02",
+      "pick_no": 12,
+      "picked_by": "Th3BoT",
       "is_mine": false
     },
     {
@@ -657,10 +657,10 @@
       "tier": 6,
       "confidence": "medium",
       "note": "PSU all-time TD record. Behind Pollard (cut candidate) + Spears. ETR: 'raw talent intriguing.' FAILS FF Day-2 R1 RB rule (R5 capital). 3.07 late dart only.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.04",
+      "pick_no": 14,
+      "picked_by": "mikey",
       "is_mine": false
     },
     {
