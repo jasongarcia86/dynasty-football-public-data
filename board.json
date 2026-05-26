@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T02:42:32.698Z",
+  "generated_at": "2026-05-26T06:48:46.100Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -468,10 +468,10 @@
       "tier": 7,
       "confidence": "medium",
       "note": "Power forward (6'4\"). 4.61 (slow) but **active OTA buzz** — Harbaugh praise, one-handed catches. Nabers ACL = Y1 target leverage. Age 23.9 caps dynasty upside but Y1 path is live. 2.07 sleeper.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.01",
+      "pick_no": 21,
+      "picked_by": "OhSnap",
       "is_mine": false
     },
     {
@@ -594,10 +594,10 @@
       "tier": 8,
       "confidence": "medium",
       "note": "6'1\"/223, 4.33 + 39\" vert. Change-of-pace to Jeanty. ETR 'fantastic size/speed but clearly blocked.' Pure handcuff value.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.09",
+      "pick_no": 19,
+      "picked_by": "BenHogan",
       "is_mine": false
     },
     {
@@ -678,10 +678,10 @@
       "tier": 7,
       "confidence": "low",
       "note": "5'11\"/229 bully back. R6 capital is the killer (FF rule: <Day-2 NFL = doomed for R1 rookie picks; 5 of 40 hit). WAS path is real (Robinson traded SF, JCM + White ambiguous). Daniels env. Dart only.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.10",
+      "pick_no": 20,
+      "picked_by": "Jakris",
       "is_mine": false
     },
     {

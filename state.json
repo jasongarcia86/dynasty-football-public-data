@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T02:42:32.698Z",
+  "generated_at": "2026-05-26T06:48:46.100Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 18,
+  "picks_made": 21,
   "total_picks": 30,
-  "pct_complete": 60,
+  "pct_complete": 70,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -197,6 +197,33 @@
       "nfl_team": "KC",
       "is_mine": false,
       "picked_by": "Jakris"
+    },
+    {
+      "pick_no": 19,
+      "slot": "2.09",
+      "player": "Mike Washington",
+      "pos": "RB",
+      "nfl_team": "LV",
+      "is_mine": false,
+      "picked_by": "BenHogan"
+    },
+    {
+      "pick_no": 20,
+      "slot": "2.10",
+      "player": "Kaytron Allen",
+      "pos": "RB",
+      "nfl_team": "WAS",
+      "is_mine": false,
+      "picked_by": "Jakris"
+    },
+    {
+      "pick_no": 21,
+      "slot": "3.01",
+      "player": "Malachi Fields",
+      "pos": "WR",
+      "nfl_team": "NYG",
+      "is_mine": false,
+      "picked_by": "OhSnap"
     }
   ]
 }
