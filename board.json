@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T00:01:03.410Z",
+  "generated_at": "2026-05-26T02:42:32.698Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -237,10 +237,10 @@
       "tier": 5,
       "confidence": "medium",
       "note": "Big-bodied X (6'4\"/212). DID NOT RUN 40 = separation red flag. CLE QB mess + crowded WR room (Jeudy/Tillman/Concepcion). FF Trull would have traded the pick. Skip unless desperate.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.05",
+      "pick_no": 15,
+      "picked_by": "tits",
       "is_mine": false
     },
     {
@@ -279,10 +279,10 @@
       "tier": 5,
       "confidence": "high",
       "note": "Clemson true-frosh breakout (age 19.1). 4.41 + 39.5\" vert. Slot role w/ Jayden Daniels (elite QB env). Better Y1 path than ETR rank implies — WAS WR2/slot opens long-term. Strong 2.03 value.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.06",
+      "pick_no": 16,
+      "picked_by": "OhSnap",
       "is_mine": false
     },
     {
@@ -321,10 +321,10 @@
       "tier": 4,
       "confidence": "medium",
       "note": "6'2\"/220 power-X, 4.44. ACL Nov 2025 — Y1 ramp will be slow. MIA QB downgrade (Willis post-Tua). MIA can be patient (Hill cut, Waddle traded). Y2 upside bet.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.07",
+      "pick_no": 17,
+      "picked_by": "mikey",
       "is_mine": false
     },
     {
@@ -615,10 +615,10 @@
       "tier": 7,
       "confidence": "medium",
       "note": "B1G RB of Year (1,451 + 46 rec). 4.56. Behind Pacheco + Walker (FA signing) + Hunt. ETR 'Charbonnet-lite if he proves himself.' Walker injury history creates path. FAILS FF Day-2 R1 RB rule — 3.07 dart only.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "2.08",
+      "pick_no": 18,
+      "picked_by": "Jakris",
       "is_mine": false
     },
     {

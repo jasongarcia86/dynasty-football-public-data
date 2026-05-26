@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T00:01:03.410Z",
+  "generated_at": "2026-05-26T02:42:32.698Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 14,
+  "picks_made": 18,
   "total_picks": 30,
-  "pct_complete": 47,
+  "pct_complete": 60,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -161,6 +161,42 @@
       "nfl_team": "TEN",
       "is_mine": false,
       "picked_by": "mikey"
+    },
+    {
+      "pick_no": 15,
+      "slot": "2.05",
+      "player": "Denzel Boston",
+      "pos": "WR",
+      "nfl_team": "CLE",
+      "is_mine": false,
+      "picked_by": "tits"
+    },
+    {
+      "pick_no": 16,
+      "slot": "2.06",
+      "player": "Antonio Williams",
+      "pos": "WR",
+      "nfl_team": "WAS",
+      "is_mine": false,
+      "picked_by": "OhSnap"
+    },
+    {
+      "pick_no": 17,
+      "slot": "2.07",
+      "player": "Chris Bell",
+      "pos": "WR",
+      "nfl_team": "MIA",
+      "is_mine": false,
+      "picked_by": "mikey"
+    },
+    {
+      "pick_no": 18,
+      "slot": "2.08",
+      "player": "Emmett Johnson",
+      "pos": "RB",
+      "nfl_team": "KC",
+      "is_mine": false,
+      "picked_by": "Jakris"
     }
   ]
 }
