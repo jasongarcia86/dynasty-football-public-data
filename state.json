@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T19:10:36.490Z",
+  "generated_at": "2026-05-26T21:00:34.511Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 22,
+  "picks_made": 23,
   "total_picks": 30,
-  "pct_complete": 73,
+  "pct_complete": 77,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -233,6 +233,15 @@
       "nfl_team": "BUF",
       "is_mine": false,
       "picked_by": "Th3BoT"
+    },
+    {
+      "pick_no": 23,
+      "slot": "3.03",
+      "player": "De'Zhaun Stribling",
+      "pos": "WR",
+      "nfl_team": "SF",
+      "is_mine": false,
+      "picked_by": "Gmen"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:10:36.490Z",
+  "generated_at": "2026-05-26T21:00:34.511Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -258,10 +258,10 @@
       "tier": 6,
       "confidence": "low",
       "note": "ETR aggressive (#11). Consensus has him later R2 (KTC #254). 4 schools / 5 yrs college. SF Evans + Pearsall + Kirk room. ETR aggression looks isolated.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.03",
+      "pick_no": 23,
+      "picked_by": "Gmen",
       "is_mine": false
     },
     {
