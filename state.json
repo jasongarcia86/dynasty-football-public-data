@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T17:55:19.052Z",
+  "generated_at": "2026-05-26T19:10:36.490Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 21,
+  "picks_made": 22,
   "total_picks": 30,
-  "pct_complete": 70,
+  "pct_complete": 73,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -224,6 +224,15 @@
       "nfl_team": "NYG",
       "is_mine": false,
       "picked_by": "OhSnap"
+    },
+    {
+      "pick_no": 22,
+      "slot": "3.02",
+      "player": "Skyler Bell",
+      "pos": "WR",
+      "nfl_team": "BUF",
+      "is_mine": false,
+      "picked_by": "Th3BoT"
     }
   ]
 }

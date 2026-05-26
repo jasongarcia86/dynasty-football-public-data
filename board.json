@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T17:55:19.052Z",
+  "generated_at": "2026-05-26T19:10:36.490Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -573,10 +573,10 @@
       "tier": 6,
       "confidence": "low",
       "note": "Elite pro-day agility. AGE 23.9 + Day 3 + BUF WR5-at-best (behind DJ Moore/Shakir/Palmer/Coleman). FF Pod skeptical. AVOID.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.02",
+      "pick_no": 22,
+      "picked_by": "Th3BoT",
       "is_mine": false
     },
     {
