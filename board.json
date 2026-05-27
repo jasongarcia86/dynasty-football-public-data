@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T02:39:55.058Z",
+  "generated_at": "2026-05-27T06:47:59.671Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -510,10 +510,10 @@
       "tier": 6,
       "confidence": "medium",
       "note": "6'4\"/200, 4.47 + 40\" vert. Biggest hands in class. AGE 21.8 + R3 capital + Lamar = checks every Footballers box on paper. But BAL Lamar WR2 has finished sub-600 yds 4 of last 5 yrs — situation drags. 3.07 dart.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.06",
+      "pick_no": 26,
+      "picked_by": "Jakris",
       "is_mine": false
     },
     {

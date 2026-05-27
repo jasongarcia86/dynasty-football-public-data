@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T02:39:55.058Z",
+  "generated_at": "2026-05-27T06:47:59.671Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 25,
+  "picks_made": 26,
   "total_picks": 30,
-  "pct_complete": 83,
+  "pct_complete": 87,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -269,6 +269,15 @@
       "nfl_team": "ATL",
       "is_mine": false,
       "picked_by": "tits"
+    },
+    {
+      "pick_no": 26,
+      "slot": "3.06",
+      "player": "Ja'Kobi Lane",
+      "pos": "WR",
+      "nfl_team": "BAL",
+      "is_mine": false,
+      "picked_by": "Jakris"
     }
   ]
 }
