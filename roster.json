@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T23:48:36.301Z",
+  "generated_at": "2026-05-27T02:39:55.058Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -57,6 +57,13 @@
       "name": "Eli Stowers",
       "pos": "TE",
       "nfl_team": "PHI"
+    },
+    {
+      "pick_slot": "3.04",
+      "pick_no": 24,
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "nfl_team": "NE"
     }
   ],
   "post_draft_roster": {
@@ -94,7 +101,8 @@
     "TE": [
       "T.J. Hockenson",
       "Tyler Warren",
-      "Eli Stowers"
+      "Eli Stowers",
+      "Eli Raridon"
     ]
   },
   "cut_candidates": [
@@ -202,7 +210,7 @@
     "QB": 6,
     "RB": 9,
     "WR": 10,
-    "TE": 3,
-    "total": 28
+    "TE": 4,
+    "total": 29
   }
 }

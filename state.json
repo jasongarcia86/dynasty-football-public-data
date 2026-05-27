@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T23:48:36.301Z",
+  "generated_at": "2026-05-27T02:39:55.058Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 23,
+  "picks_made": 25,
   "total_picks": 30,
-  "pct_complete": 77,
+  "pct_complete": 83,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -31,6 +31,15 @@
       "player": "Eli Stowers",
       "pos": "TE",
       "nfl_team": "PHI",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 24,
+      "slot": "3.04",
+      "player": "Eli Raridon",
+      "pos": "TE",
+      "nfl_team": "NE",
       "is_mine": true,
       "picked_by": "ME"
     }
@@ -242,6 +251,24 @@
       "nfl_team": "SF",
       "is_mine": false,
       "picked_by": "Gmen"
+    },
+    {
+      "pick_no": 24,
+      "slot": "3.04",
+      "player": "Eli Raridon",
+      "pos": "TE",
+      "nfl_team": "NE",
+      "is_mine": true,
+      "picked_by": "ME"
+    },
+    {
+      "pick_no": 25,
+      "slot": "3.05",
+      "player": "Zachariah Branch",
+      "pos": "WR",
+      "nfl_team": "ATL",
+      "is_mine": false,
+      "picked_by": "tits"
     }
   ]
 }

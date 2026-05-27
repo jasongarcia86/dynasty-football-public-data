@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T23:48:36.301Z",
+  "generated_at": "2026-05-27T02:39:55.058Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -426,10 +426,10 @@
       "tier": 7,
       "confidence": "low",
       "note": "5'9\"/177 (small frame red flag). 4.35 burner. ETR: 'screen merchant with a QB who hates deep.' Penix Y2 unlikely to feed Branch. Pass even if he falls.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.05",
+      "pick_no": 25,
+      "picked_by": "tits",
       "is_mine": false
     },
     {
@@ -447,11 +447,11 @@
       "tier": 8,
       "confidence": "low",
       "note": "ETR aggressive (#14) — TWO ACL tears same knee is the live medical red flag. KTC #409 reflects market skepticism. Behind Hunter Henry, Drake Maye QB env good but health is the dealbreaker. Avoid.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
-      "is_mine": false
+      "drafted": true,
+      "pick_slot": "3.04",
+      "pick_no": 24,
+      "picked_by": "ME",
+      "is_mine": true
     },
     {
       "rank": 27,
