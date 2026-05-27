@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T10:51:24.341Z",
+  "generated_at": "2026-05-27T16:38:20.601Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 26,
+  "picks_made": 28,
   "total_picks": 30,
-  "pct_complete": 87,
+  "pct_complete": 93,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -276,6 +276,24 @@
       "player": "Ja'Kobi Lane",
       "pos": "WR",
       "nfl_team": "BAL",
+      "is_mine": false,
+      "picked_by": "Jakris"
+    },
+    {
+      "pick_no": 27,
+      "slot": "3.07",
+      "player": "Germie Bernard",
+      "pos": "WR",
+      "nfl_team": "PIT",
+      "is_mine": false,
+      "picked_by": "OhSnap"
+    },
+    {
+      "pick_no": 28,
+      "slot": "3.08",
+      "player": "Demond Claiborne",
+      "pos": "RB",
+      "nfl_team": "MIN",
       "is_mine": false,
       "picked_by": "Jakris"
     }

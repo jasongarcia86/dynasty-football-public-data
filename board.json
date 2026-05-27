@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:51:24.341Z",
+  "generated_at": "2026-05-27T16:38:20.601Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -342,10 +342,10 @@
       "tier": 6,
       "confidence": "medium",
       "note": "ETR: 'classic Day-2 Steelers WR.' Behind DK Metcalf + Pittman, Rodgers (42) at QB. Possession profile, weak deep gear. WR3 Y1 ceiling.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.07",
+      "pick_no": 27,
+      "picked_by": "OhSnap",
       "is_mine": false
     },
     {
@@ -909,10 +909,10 @@
       "tier": 8,
       "confidence": "low",
       "note": "4.37 speed. ETR: 'smaller side but ran well + pass-catching background.' Aaron Jones 31, Mason FA '27. Path is there. Deep dart.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.08",
+      "pick_no": 28,
+      "picked_by": "Jakris",
       "is_mine": false
     },
     {
