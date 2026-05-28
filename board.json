@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:41:07.958Z",
+  "generated_at": "2026-05-28T16:54:18.306Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -405,10 +405,10 @@
       "tier": 6,
       "confidence": "medium",
       "note": "6'4\"/206, 4.42 + 11'3\" broad — small-school traits bet. Behind Godwin (aging) + Egbuka + McMillan. Evans gone to SF opens Y2 path. ETR 'fun small-school option.'",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.10",
+      "pick_no": 30,
+      "picked_by": "dinomite",
       "is_mine": false
     },
     {

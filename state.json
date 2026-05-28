@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-28T10:41:07.958Z",
+  "generated_at": "2026-05-28T16:54:18.306Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 29,
+  "picks_made": 30,
   "total_picks": 30,
-  "pct_complete": 97,
-  "is_complete": false,
+  "pct_complete": 100,
+  "is_complete": true,
   "my_user_id_present": true,
   "my_picks": [
     {
@@ -305,6 +305,15 @@
       "nfl_team": "CAR",
       "is_mine": false,
       "picked_by": "BenHogan"
+    },
+    {
+      "pick_no": 30,
+      "slot": "3.10",
+      "player": "Ted Hurst",
+      "pos": "WR",
+      "nfl_team": "TB",
+      "is_mine": false,
+      "picked_by": "dinomite"
     }
   ]
 }
