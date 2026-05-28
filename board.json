@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T00:00:37.949Z",
+  "generated_at": "2026-05-28T02:26:46.003Z",
   "league_name": "Don't California My Texas",
   "season": 2026,
   "format": "Superflex non-TEP, 10-team, 3 rounds, 24h clock, linear",
@@ -363,10 +363,10 @@
       "tier": 7,
       "confidence": "medium",
       "note": "6'4\"/198, 4.37 burner. Behind T-Mac + Legette/Coker, Bryce Young at QB. ETR: 'Tennessee WRs have not translated well.' Vertical-only profile.",
-      "drafted": false,
-      "pick_slot": null,
-      "pick_no": null,
-      "picked_by": null,
+      "drafted": true,
+      "pick_slot": "3.09",
+      "pick_no": 29,
+      "picked_by": "BenHogan",
       "is_mine": false
     },
     {

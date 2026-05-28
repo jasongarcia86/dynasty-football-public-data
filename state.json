@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T00:00:37.949Z",
+  "generated_at": "2026-05-28T02:26:46.003Z",
   "draft_id": "1346001677764825088",
-  "picks_made": 28,
+  "picks_made": 29,
   "total_picks": 30,
-  "pct_complete": 93,
+  "pct_complete": 97,
   "is_complete": false,
   "my_user_id_present": true,
   "my_picks": [
@@ -296,6 +296,15 @@
       "nfl_team": "MIN",
       "is_mine": false,
       "picked_by": "Jakris"
+    },
+    {
+      "pick_no": 29,
+      "slot": "3.09",
+      "player": "Chris Brazzell",
+      "pos": "WR",
+      "nfl_team": "CAR",
+      "is_mine": false,
+      "picked_by": "BenHogan"
     }
   ]
 }
