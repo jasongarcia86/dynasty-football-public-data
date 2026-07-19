@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:12:20.282Z",
+  "generated_at": "2026-07-19T15:50:16.363Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -116,15 +116,6 @@
       "reason": "age 27 · Q · tagged surplus"
     },
     {
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "age": 26,
-      "team": "BAL",
-      "injury_status": "Questionable",
-      "score": 36,
-      "reason": "age 26 · Q · tagged surplus"
-    },
-    {
       "name": "Tua Tagovailoa",
       "pos": "QB",
       "age": 28,
@@ -156,6 +147,15 @@
       "pos": "RB",
       "age": 26,
       "team": "DAL",
+      "injury_status": null,
+      "score": 26,
+      "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "age": 26,
+      "team": "BAL",
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
