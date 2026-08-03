@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:55:02.838Z",
+  "generated_at": "2026-08-03T15:39:02.191Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,15 +107,6 @@
   },
   "cut_candidates": [
     {
-      "name": "Tua Tagovailoa",
-      "pos": "QB",
-      "age": 28,
-      "team": "ATL",
-      "injury_status": "Questionable",
-      "score": 38,
-      "reason": "age 28 · Q · tagged surplus"
-    },
-    {
       "name": "Najee Harris",
       "pos": "RB",
       "age": 27,
@@ -123,6 +114,15 @@
       "injury_status": "Questionable",
       "score": 37,
       "reason": "age 27 · Q · tagged surplus"
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "pos": "QB",
+      "age": 28,
+      "team": "ATL",
+      "injury_status": null,
+      "score": 28,
+      "reason": "age 28 · tagged surplus"
     },
     {
       "name": "Malik Willis",
