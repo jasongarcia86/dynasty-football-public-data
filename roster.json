@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:39:02.191Z",
+  "generated_at": "2026-08-04T16:49:24.602Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -116,6 +116,15 @@
       "reason": "age 27 · Q · tagged surplus"
     },
     {
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
+      "injury_status": "Questionable",
+      "score": 35,
+      "reason": "age 25 · Q · tagged surplus"
+    },
+    {
       "name": "Tua Tagovailoa",
       "pos": "QB",
       "age": 28,
@@ -159,15 +168,6 @@
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
-    },
-    {
-      "name": "Xavier Legette",
-      "pos": "WR",
-      "age": 25,
-      "team": "CAR",
-      "injury_status": null,
-      "score": 25,
-      "reason": "age 25 · tagged surplus"
     },
     {
       "name": "Malik Washington",
