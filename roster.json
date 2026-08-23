@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:28:15.734Z",
+  "generated_at": "2026-08-23T15:14:34.354Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,13 +107,22 @@
   },
   "cut_candidates": [
     {
-      "name": "Najee Harris",
+      "name": "Rachaad White",
       "pos": "RB",
       "age": 27,
-      "team": null,
+      "team": "WAS",
       "injury_status": "Questionable",
       "score": 37,
       "reason": "age 27 · Q · tagged surplus"
+    },
+    {
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
+      "injury_status": "Questionable",
+      "score": 35,
+      "reason": "age 25 · Q · tagged surplus"
     },
     {
       "name": "Tua Tagovailoa",
@@ -125,19 +134,19 @@
       "reason": "age 28 · tagged surplus"
     },
     {
+      "name": "Najee Harris",
+      "pos": "RB",
+      "age": 28,
+      "team": "NYG",
+      "injury_status": null,
+      "score": 28,
+      "reason": "age 28 · tagged surplus"
+    },
+    {
       "name": "Malik Willis",
       "pos": "QB",
       "age": 27,
       "team": "MIA",
-      "injury_status": null,
-      "score": 27,
-      "reason": "age 27 · tagged surplus"
-    },
-    {
-      "name": "Rachaad White",
-      "pos": "RB",
-      "age": 27,
-      "team": "WAS",
       "injury_status": null,
       "score": 27,
       "reason": "age 27 · tagged surplus"
@@ -159,15 +168,6 @@
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
-    },
-    {
-      "name": "Xavier Legette",
-      "pos": "WR",
-      "age": 25,
-      "team": "CAR",
-      "injury_status": null,
-      "score": 25,
-      "reason": "age 25 · tagged surplus"
     },
     {
       "name": "Malik Washington",
