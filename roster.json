@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:17:15.416Z",
+  "generated_at": "2026-09-13T17:48:29.580Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,31 +107,22 @@
   },
   "cut_candidates": [
     {
-      "name": "Rachaad White",
-      "pos": "RB",
-      "age": 27,
-      "team": "WAS",
-      "injury_status": "Questionable",
-      "score": 37,
-      "reason": "age 27 · Q · tagged surplus"
-    },
-    {
-      "name": "Xavier Legette",
-      "pos": "WR",
-      "age": 25,
-      "team": "CAR",
-      "injury_status": "Questionable",
-      "score": 35,
-      "reason": "age 25 · Q · tagged surplus"
-    },
-    {
       "name": "Tua Tagovailoa",
       "pos": "QB",
       "age": 28,
       "team": "ATL",
-      "injury_status": null,
-      "score": 28,
-      "reason": "age 28 · tagged surplus"
+      "injury_status": "Out",
+      "score": 78,
+      "reason": "age 28 · out (Out) · tagged surplus"
+    },
+    {
+      "name": "Riley Leonard",
+      "pos": "QB",
+      "age": 24,
+      "team": "IND",
+      "injury_status": "Out",
+      "score": 74,
+      "reason": "age 24 · out (Out) · tagged surplus"
     },
     {
       "name": "Najee Harris",
@@ -147,6 +138,15 @@
       "pos": "QB",
       "age": 27,
       "team": "MIA",
+      "injury_status": null,
+      "score": 27,
+      "reason": "age 27 · tagged surplus"
+    },
+    {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27,
+      "team": "WAS",
       "injury_status": null,
       "score": 27,
       "reason": "age 27 · tagged surplus"
@@ -168,6 +168,15 @@
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
+      "injury_status": null,
+      "score": 25,
+      "reason": "age 25 · tagged surplus"
     },
     {
       "name": "Malik Washington",
@@ -195,15 +204,6 @@
       "injury_status": null,
       "score": 24,
       "reason": "age 24 · tagged surplus"
-    },
-    {
-      "name": "Riley Leonard",
-      "pos": "QB",
-      "age": 23,
-      "team": "IND",
-      "injury_status": null,
-      "score": 23,
-      "reason": "age 23 · tagged surplus"
     }
   ],
   "counts": {
