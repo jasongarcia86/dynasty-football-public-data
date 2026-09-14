@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:48:29.580Z",
+  "generated_at": "2026-09-14T18:16:58.712Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -116,6 +116,15 @@
       "reason": "age 28 · out (Out) · tagged surplus"
     },
     {
+      "name": "Najee Harris",
+      "pos": "RB",
+      "age": 28,
+      "team": "NYG",
+      "injury_status": "Out",
+      "score": 78,
+      "reason": "age 28 · out (Out) · tagged surplus"
+    },
+    {
       "name": "Riley Leonard",
       "pos": "QB",
       "age": 24,
@@ -123,15 +132,6 @@
       "injury_status": "Out",
       "score": 74,
       "reason": "age 24 · out (Out) · tagged surplus"
-    },
-    {
-      "name": "Najee Harris",
-      "pos": "RB",
-      "age": 28,
-      "team": "NYG",
-      "injury_status": null,
-      "score": 28,
-      "reason": "age 28 · tagged surplus"
     },
     {
       "name": "Malik Willis",
