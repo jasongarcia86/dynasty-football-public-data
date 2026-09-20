@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:41:55.745Z",
+  "generated_at": "2026-09-20T17:49:33.750Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -120,18 +120,9 @@
       "pos": "RB",
       "age": 28,
       "team": "NYG",
-      "injury_status": "Out",
-      "score": 78,
-      "reason": "age 28 · out (Out) · tagged surplus"
-    },
-    {
-      "name": "Riley Leonard",
-      "pos": "QB",
-      "age": 24,
-      "team": "IND",
-      "injury_status": "Out",
-      "score": 74,
-      "reason": "age 24 · out (Out) · tagged surplus"
+      "injury_status": null,
+      "score": 28,
+      "reason": "age 28 · tagged surplus"
     },
     {
       "name": "Malik Willis",
@@ -189,6 +180,15 @@
     },
     {
       "name": "Anthony Richardson",
+      "pos": "QB",
+      "age": 24,
+      "team": "IND",
+      "injury_status": null,
+      "score": 24,
+      "reason": "age 24 · tagged surplus"
+    },
+    {
+      "name": "Riley Leonard",
       "pos": "QB",
       "age": 24,
       "team": "IND",
