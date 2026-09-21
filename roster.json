@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:49:33.750Z",
+  "generated_at": "2026-09-21T18:24:07.561Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -116,6 +116,15 @@
       "reason": "age 28 · out (Out) · tagged surplus"
     },
     {
+      "name": "Riley Leonard",
+      "pos": "QB",
+      "age": 24,
+      "team": "IND",
+      "injury_status": "Out",
+      "score": 74,
+      "reason": "age 24 · out (Out) · tagged surplus"
+    },
+    {
       "name": "Najee Harris",
       "pos": "RB",
       "age": 28,
@@ -180,15 +189,6 @@
     },
     {
       "name": "Anthony Richardson",
-      "pos": "QB",
-      "age": 24,
-      "team": "IND",
-      "injury_status": null,
-      "score": 24,
-      "reason": "age 24 · tagged surplus"
-    },
-    {
-      "name": "Riley Leonard",
       "pos": "QB",
       "age": 24,
       "team": "IND",
