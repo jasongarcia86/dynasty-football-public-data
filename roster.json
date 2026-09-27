@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:29:15.591Z",
+  "generated_at": "2026-09-27T18:48:32.243Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,13 +107,13 @@
   },
   "cut_candidates": [
     {
-      "name": "Tua Tagovailoa",
-      "pos": "QB",
-      "age": 28,
-      "team": "ATL",
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
       "injury_status": "Out",
-      "score": 78,
-      "reason": "age 28 · out (Out) · tagged surplus"
+      "score": 75,
+      "reason": "age 25 · out (Out) · tagged surplus"
     },
     {
       "name": "Riley Leonard",
@@ -123,6 +123,15 @@
       "injury_status": "Out",
       "score": 74,
       "reason": "age 24 · out (Out) · tagged surplus"
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "pos": "QB",
+      "age": 28,
+      "team": "ATL",
+      "injury_status": null,
+      "score": 28,
+      "reason": "age 28 · tagged surplus"
     },
     {
       "name": "Najee Harris",
@@ -168,15 +177,6 @@
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
-    },
-    {
-      "name": "Xavier Legette",
-      "pos": "WR",
-      "age": 25,
-      "team": "CAR",
-      "injury_status": null,
-      "score": 25,
-      "reason": "age 25 · tagged surplus"
     },
     {
       "name": "Malik Washington",
