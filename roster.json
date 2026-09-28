@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:48:32.243Z",
+  "generated_at": "2026-09-28T19:55:22.409Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -125,6 +125,15 @@
       "reason": "age 24 · out (Out) · tagged surplus"
     },
     {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27,
+      "team": "WAS",
+      "injury_status": "Questionable",
+      "score": 37,
+      "reason": "age 27 · Q · tagged surplus"
+    },
+    {
       "name": "Tua Tagovailoa",
       "pos": "QB",
       "age": 28,
@@ -147,15 +156,6 @@
       "pos": "QB",
       "age": 27,
       "team": "MIA",
-      "injury_status": null,
-      "score": 27,
-      "reason": "age 27 · tagged surplus"
-    },
-    {
-      "name": "Rachaad White",
-      "pos": "RB",
-      "age": 27,
-      "team": "WAS",
       "injury_status": null,
       "score": 27,
       "reason": "age 27 · tagged surplus"
