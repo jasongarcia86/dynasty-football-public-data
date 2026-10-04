@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:46:32.023Z",
+  "generated_at": "2026-10-04T18:29:01.947Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,13 +107,22 @@
   },
   "cut_candidates": [
     {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27,
+      "team": "WAS",
+      "injury_status": "Out",
+      "score": 77,
+      "reason": "age 27 · out (Out) · tagged surplus"
+    },
+    {
       "name": "Xavier Legette",
       "pos": "WR",
       "age": 25,
       "team": "CAR",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "score": 75,
-      "reason": "age 25 · out (Out) · tagged surplus"
+      "reason": "age 25 · out (IR) · tagged surplus"
     },
     {
       "name": "Riley Leonard",
@@ -123,15 +132,6 @@
       "injury_status": "Out",
       "score": 74,
       "reason": "age 24 · out (Out) · tagged surplus"
-    },
-    {
-      "name": "Rachaad White",
-      "pos": "RB",
-      "age": 27,
-      "team": "WAS",
-      "injury_status": "Questionable",
-      "score": 37,
-      "reason": "age 27 · Q · tagged surplus"
     },
     {
       "name": "Tua Tagovailoa",
