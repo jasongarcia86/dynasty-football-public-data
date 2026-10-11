@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:58:03.405Z",
+  "generated_at": "2026-10-11T19:16:56.148Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,15 +107,6 @@
   },
   "cut_candidates": [
     {
-      "name": "Rachaad White",
-      "pos": "RB",
-      "age": 27,
-      "team": "WAS",
-      "injury_status": "Out",
-      "score": 77,
-      "reason": "age 27 · out (Out) · tagged surplus"
-    },
-    {
       "name": "Xavier Legette",
       "pos": "WR",
       "age": 25,
@@ -156,6 +147,15 @@
       "pos": "QB",
       "age": 27,
       "team": "MIA",
+      "injury_status": null,
+      "score": 27,
+      "reason": "age 27 · tagged surplus"
+    },
+    {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27,
+      "team": "WAS",
       "injury_status": null,
       "score": 27,
       "reason": "age 27 · tagged surplus"
