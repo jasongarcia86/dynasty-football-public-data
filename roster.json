@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:53:31.340Z",
+  "generated_at": "2026-10-25T18:00:28.262Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,15 +107,6 @@
   },
   "cut_candidates": [
     {
-      "name": "Rashod Bateman",
-      "pos": "WR",
-      "age": 26,
-      "team": "BAL",
-      "injury_status": "Out",
-      "score": 76,
-      "reason": "age 26 · out (Out) · tagged surplus"
-    },
-    {
       "name": "Xavier Legette",
       "pos": "WR",
       "age": 25,
@@ -174,6 +165,15 @@
       "pos": "RB",
       "age": 26,
       "team": "DAL",
+      "injury_status": null,
+      "score": 26,
+      "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "age": 26,
+      "team": "BAL",
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
