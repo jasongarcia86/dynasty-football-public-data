@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:15:17.543Z",
+  "generated_at": "2026-11-09T22:48:12.816Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -125,6 +125,15 @@
       "reason": "age 24 · out (Out) · tagged surplus"
     },
     {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "age": 27,
+      "team": "MIA",
+      "injury_status": "Questionable",
+      "score": 37,
+      "reason": "age 27 · Q · tagged surplus"
+    },
+    {
       "name": "Tua Tagovailoa",
       "pos": "QB",
       "age": 28,
@@ -141,15 +150,6 @@
       "injury_status": null,
       "score": 28,
       "reason": "age 28 · tagged surplus"
-    },
-    {
-      "name": "Malik Willis",
-      "pos": "QB",
-      "age": 27,
-      "team": "MIA",
-      "injury_status": null,
-      "score": 27,
-      "reason": "age 27 · tagged surplus"
     },
     {
       "name": "Rachaad White",
