@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:48:12.816Z",
+  "generated_at": "2026-11-10T21:11:20.760Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -107,6 +107,15 @@
   },
   "cut_candidates": [
     {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "age": 27,
+      "team": "MIA",
+      "injury_status": "IR",
+      "score": 77,
+      "reason": "age 27 · out (IR) · tagged surplus"
+    },
+    {
       "name": "Xavier Legette",
       "pos": "WR",
       "age": 25,
@@ -123,15 +132,6 @@
       "injury_status": "Out",
       "score": 74,
       "reason": "age 24 · out (Out) · tagged surplus"
-    },
-    {
-      "name": "Malik Willis",
-      "pos": "QB",
-      "age": 27,
-      "team": "MIA",
-      "injury_status": "Questionable",
-      "score": 37,
-      "reason": "age 27 · Q · tagged surplus"
     },
     {
       "name": "Tua Tagovailoa",
