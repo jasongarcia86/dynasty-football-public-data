@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:11:20.760Z",
+  "generated_at": "2026-11-15T20:03:20.836Z",
   "team_name": "Emeka Boomshakalaka",
   "current_roster": {
     "QB": [
@@ -116,15 +116,6 @@
       "reason": "age 27 · out (IR) · tagged surplus"
     },
     {
-      "name": "Xavier Legette",
-      "pos": "WR",
-      "age": 25,
-      "team": "CAR",
-      "injury_status": "IR",
-      "score": 75,
-      "reason": "age 25 · out (IR) · tagged surplus"
-    },
-    {
       "name": "Riley Leonard",
       "pos": "QB",
       "age": 24,
@@ -177,6 +168,15 @@
       "injury_status": null,
       "score": 26,
       "reason": "age 26 · tagged surplus"
+    },
+    {
+      "name": "Xavier Legette",
+      "pos": "WR",
+      "age": 25,
+      "team": "CAR",
+      "injury_status": null,
+      "score": 25,
+      "reason": "age 25 · tagged surplus"
     },
     {
       "name": "Malik Washington",
